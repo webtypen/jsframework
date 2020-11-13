@@ -1,0 +1,3 @@
+#!/usr/bin/node
+
+require("./node_modules/webtypen-jsframework/src/Console/Artisan");
