@@ -1,3 +1,3 @@
-const { Application } = require("webtypen-jsframework");
+const { Application } = require("webtypen-jsframework-core");
 
 Application.boot();
