@@ -1,4 +1,4 @@
-const { Model } = require("webtypen-jsframework-core");
+const { Model } = require("@webtypen/jsframework-core");
 
 class User extends Model {
     table = "users";

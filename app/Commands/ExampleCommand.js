@@ -1,4 +1,4 @@
-const { ConsoleCommand } = require("webtypen-jsframework-core");
+const { ConsoleCommand } = require("@webtypen/jsframework-core");
 
 class ExampleCommand extends ConsoleCommand {
     static signature = "example:command";

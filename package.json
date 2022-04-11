@@ -5,7 +5,7 @@
     "author": "Benedict Romp <b.romp@webtypen.de>",
     "license": "MIT",
     "dependencies": {
-        "webtypen-jsframework-core": "^1.0.0"
+        "@webtypen/jsframework-core": "^1.2.3"
     },
     "scripts": {
         "start": "node app.js",

@@ -1,4 +1,4 @@
-const { Migration } = require("webtypen-jsframework-core");
+const { Migration } = require("@webtypen/jsframework-core");
 
 class CreateAuthStructure extends Migration {
     up() {
